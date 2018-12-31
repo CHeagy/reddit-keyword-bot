@@ -5,15 +5,15 @@ Requires:
 * Praw
 * PyMySQL
 
-###Step 1.
+### Step 1.
 
 Import `reddit-keyword-bot.sql`
 
-###Step 2.
+### Step 2.
 
 Edit `www/reddit-keywords/config.php` and `reddit-keywor.py` to update the config settings
 
-###Step 3.
+### Step 3.
 
 Run `reddit-keyword.py`
 
