@@ -1,0 +1,13 @@
+Hello,
+
+You have setup a notification whenever the keyword(s) ${PHRASE} was posted in /r/${SUBREDDIT}.
+
+It's your lucky day!
+
+${PHRASE} was posted in the below link:
+https://reddit.com${URL}
+
+------------
+
+You can unsubscribe by clicking the link below:
+${HOME}?unsubscribe=${CODE}
